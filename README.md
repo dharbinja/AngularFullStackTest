@@ -1,6 +1,6 @@
 # AngularFullStackTest
 
-https://travis-ci.org/dharbinja/AngularFullStackTest.svg?branch=master
+[![Build Status](https://travis-ci.org/dharbinja/AngularFullStackTest.svg?branch=master)](https://travis-ci.org/dharbinja/AngularFullStackTest)
 
 Testing Angular Full Stack app
 
